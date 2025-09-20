@@ -1,15 +1,15 @@
 # 👋 Hey there, I’m Ritesh Kumar  
 
-🚀 **Senior Associate Data Scientist @ Publicis Sapient | 9+ YOE**  
-⚡ **Generative AI | Agentic AI | Fine-Tuned SLMs | Cost-Efficient Enterprise AI**
+💻 I’m a Data Scientist with **9 years of experience** building **Generative & Agentic AI systems** with a strong focus on **scalability and cost optimization**.  
+My work includes **fine-tuning Small Language Models (SLMs)**, designing **Retrieval-Augmented Generation (RAG) pipelines**, and integrating **vector databases (Pinecone, FAISS), embeddings, and semantic caching** to deliver **enterprise-ready AI** at low cost and high performance.
 
 ---
 
 ## 🚀 About Me
-- 💻 **9+ years** of experience in **AI/ML, NLP, and LLMs** across healthcare, banking, and telecom  
+- 💻 **9+ years** of experience in **AI/ML, NLP, Agentic AI , DL, and LLMs** across healthcare, banking, and telecom  
 - 🧠 Expertise in **Generative AI, Agentic AI, RAG pipelines, and SLM fine-tuning**  
 - ☁️ Hands-on with **AWS (SageMaker, S3, EC2)** & **GCP (BigQuery, Vertex AI)** for scalable ML/AI solutions  
-- 🏆 Recognitions: *Champion Award (Dassault System)* | *Excellence Award (BNY Mellon)*  
+- 🏆 Recognitions: *Champion Award (Dassault System)* | *Excellence Award (BNY Mellon)* | *Star Of Month Award (Accenture)*  
 - ✍️ I share AI/ML insights on [Medium](https://medium.com/@riteshpcs1994)
 
 ---
@@ -17,20 +17,14 @@
 ## 🚀 Technical Skills
 
 ### Generative AI & LLM Stack
-![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=python&logoColor=black)  
-![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=chainlink&logoColor=white)  
-![Pinecone](https://img.shields.io/badge/Pinecone-0D96F6?style=for-the-badge&logo=pinboard&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=databricks&logoColor=white)  
-![Weaviate](https://img.shields.io/badge/Weaviate-2A7FFF?style=for-the-badge&logo=weave&logoColor=white)  
-![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-333333?style=for-the-badge&logo=python&logoColor=white)  
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white) 
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=chainlink&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFDA44?style=for-the-badge&logo=python&logoColor=black)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -45,6 +39,7 @@
 ![Pinecone](https://img.shields.io/badge/Pinecone-0D96F6?style=for-the-badge&logo=pinboard&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=databricks&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 ---
 
