@@ -5,18 +5,26 @@ My work includes **fine-tuning Small Language Models (SLMs)**, designing **Retri
 
 ---
 
-## 🚀 About Me
+## About Me
 - 💻 **9+ years** of experience in **AI/ML, NLP, Agentic AI , DL, and LLMs** across healthcare, banking, and telecom  
-- 🧠 Expertise in **Generative AI, Agentic AI, RAG pipelines, and SLM fine-tuning**  
+- 🧠 Expertise in **Generative AI, Agentic AI, RAG pipelines, and LLM/SLM fine-tuning**  
 - ☁️ Hands-on with **AWS (SageMaker, S3, EC2)** & **GCP (BigQuery, Vertex AI)** for scalable ML/AI solutions  
 - 🏆 Recognitions: *Champion Award (Dassault System)* | *Excellence Award (BNY Mellon)* | *Star Of Month Award (Accenture)*  
 - ✍️ I share AI/ML insights on [Medium](https://medium.com/@riteshpcs1994)
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
-### Generative AI & LLM Stack
+### Core AI/ML Skills
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2ECC71?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF5733?style=for-the-badge&logoColor=white)
+![SLM](https://img.shields.io/badge/SLM-16A085?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-E74C3C?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-F1C40F?style=for-the-badge&logoColor=black)
+![Fine-Tuning LLM](https://img.shields.io/badge/Fine--Tuning%20LLM-9B59B6?style=for-the-badge&logoColor=white)
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,6 +48,16 @@ My work includes **fine-tuning Small Language Models (SLMs)**, designing **Retri
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=databricks&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
 
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0D96F6?style=for-the-badge&logo=pinboard&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=databricks&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Methodologies
+![Agile Scrum](https://img.shields.io/badge/Agile%20Scrum-3776AB?style=for-the-badge&logoColor=white)
+![Agile Kanban](https://img.shields.io/badge/Agile%20Kanban-2ECC71?style=for-the-badge&logoColor=white)
 
 ---
 
