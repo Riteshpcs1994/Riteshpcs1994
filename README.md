@@ -62,8 +62,13 @@ My work includes **fine-tuning Small Language Models (SLMs)**, designing **Retri
 ---
 
 ## 📊 GitHub Stats
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riteshpcs1994&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshpcs1994&layout=compact&theme=tokyonight)
+
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riteshpcs1994&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshpcs1994&layout=compact&theme=tokyonight)  
+![GitHub repos](https://img.shields.io/badge/Public%20Repos-{{REPO_COUNT}}-blue?style=for-the-badge&logo=github)
+
+
+
 
 ---
 
